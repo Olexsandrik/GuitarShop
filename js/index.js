@@ -1,8 +1,8 @@
 
 function init() {
-    import('.../utils/localStorageUtil.js');
-   import('.../constants/catalog.js');
-   import('.../constants/root.js');
+    import('./utils/localStorageUtil.js');
+   import('./constants/catalog.js');
+   import('./constants/root.js');
    import('./index.header.partial.js');
    import('./index.products.partial.js');
    import('./index.shopping.partial.js');
