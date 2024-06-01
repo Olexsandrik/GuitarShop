@@ -1,6 +1,6 @@
 
 function init() {
-   import('../constants/catalog.js');
+   import('./constants/catalog.js');
    import('./constants/root.js');
    import('./index.header.partial.js');
    import('./index.products.partial.js');
